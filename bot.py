@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # --- Bot Configuration ---
-TOKEN = "8212295363:AAFW-rCXssD1vPKyoMOMjvmj6HKansrNSHE"
+TOKEN = "8212295363:AAGWMQDsVR2HmuXhzHuxTKVm--pg2S9pJa0"
 MONETAG_LINK = "https://otieu.com/4/9976545"
 
 WELCOME_MESSAGE = (
